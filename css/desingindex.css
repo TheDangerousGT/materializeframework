@@ -1,0 +1,28 @@
+.info{
+    font-size: 40px;
+    text-align: center;
+}
+.name{
+    color: #EE6E73;
+    margin-left: 100px;
+}
+.waves-effect{
+    margin-left: 200px;
+    margin-top: 20px;
+    background-color: #EE6E73;
+}
+.btn{
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 1300px;
+}
+.Speeds{
+    width: 50px;
+    height: 400px;
+}
+
+
+.disabled{
+    margin-top: 40px;
+    margin-left: 650px;
+}
